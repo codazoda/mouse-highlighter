@@ -1,10 +1,10 @@
-# Mouse Highligher
+# Mouse Highlighter
 
 An extension for Google Chrome that highlights the mouse cursor so that it's a little easier to see when screen sharing.
 
 ## Installation
 
-The open source version of this extension can be cloned from this github repo and installed from here. It's also available in the Chrome Web Store as /Joel Dare's Mouse Highligher/. I recommend you install it from there. If you want to install from source, do the following.
+The open source version of this extension can be cloned from this github repo and installed from here. It's also available in the Chrome Web Store as /Mouse Highlighter/. I recommend you install it from there. If you want to install from source, do the following.
 
 - Clone the repo
 - Open Extensions (Menu, More Tools, Extensions) in Google Chrome
