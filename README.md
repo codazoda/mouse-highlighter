@@ -2,7 +2,7 @@
 
 An extension for Google Chrome that highlights the mouse cursor so that it's a little easier to see when screen sharing.
 
-![Mouse Highlighter Screenshot](img/screenshot-1280x800.png)
+![Mouse Highlighter Screenshot](http://mouse-highlighter.joeldare.com/img/screenshot-1280x800.png)
 
 ## Installation
 
