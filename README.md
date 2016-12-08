@@ -8,6 +8,10 @@ An extension for Google Chrome that highlights the mouse cursor so that it's a l
 
 Open the [Mouse Highlighter extension](https://chrome.google.com/webstore/detail/mouse-highlighter/bigehjalclaalhlmhkdoebbbmbbdnjpo) from the Chrome Web Store by clicking *Add to Chrome*.
 
+## Documentation
+
+This documentation is available on the [Mouse Highlighter home page](http://mouse-highlighter.joeldare.com) and on the [Mouse Highlighter GitHub page](https://github.com/codazoda/mouse-highlighter).
+
 ## Source Code
 
 The open source version can be cloned from the [mouse-highlighter project on GitHub](https://github.com/codazoda/mouse-highlighter) and installed from there.
